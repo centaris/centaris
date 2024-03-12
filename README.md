@@ -1,0 +1,3 @@
+- Yo wassup I'm learning Java, Mojo, JS, and AI applications
+- Lightly working on Aspine 2 for my cybersecurity club
+- Debugging Github Codespaces 😅
